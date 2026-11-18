@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="48" viewBox="0 0 135 48" role="img" aria-label="Hardware">
+<title>Hardware</title>
+<rect x="1" y="1" width="133" height="46" rx="10" fill="#101e35" stroke="#2a4466" stroke-width="1.5"/><g transform="translate(13 10)"><path d="M4 22 V14 L10 8 H18" fill="none" stroke="#ffb454" stroke-width="2.2" stroke-linejoin="round"/><path d="M12 24 V18 L18 14 H24" fill="none" stroke="#ffb454" stroke-width="2.2" stroke-linejoin="round"/><circle cx="21" cy="8" r="3" fill="none" stroke="#ffb454" stroke-width="2"/><circle cx="4" cy="24" r="2.2" fill="#ffb454"/><circle cx="12" cy="24" r="0" fill="#ffb454"/><circle cx="24" cy="14" r="2.2" fill="#ffb454"/></g><text x="52" y="30" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#f4f8ff">Hardware</text>
+</svg>
